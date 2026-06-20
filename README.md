@@ -1,11 +1,4 @@
-# Olá, chamo-me Gustavo 👋
-
-```sql
-SELECT nome, competencias 
-FROM devs 
-WHERE sobrenome LIKE '%dos Santos%' 
-  AND objetivo = 'Sênior';
-```
+# Olá, chamo-me Gustavo dos Santos 👋
 
 Sou Técnico Médio em Informática de Gestão. O meu foco é em evolução contínua, onde atualmente utilizo o GitHub como o meu laboratório pessoal para construir projetos práticos por diversão, experimentar novas ferramentas e tecnologias para aperfeiçoar as minhas habilidades. Segue-me no instragram [Gustavo dos Santos](https://instagram.com/gustav_o.ds) !
 
