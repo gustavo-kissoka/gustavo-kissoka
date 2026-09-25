@@ -4,6 +4,7 @@ Sou Técnico Médio em Informática de Gestão. O meu foco é em evolução cont
 
 
 # 👨‍💻 Tech Stack 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -12,3 +13,7 @@ Sou Técnico Médio em Informática de Gestão. O meu foco é em evolução cont
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
+# 🔥 GitHub Streak
+
+
+![GitHub Stats](https://streak-stats.demolab.com?user=gustavo-kissoka&theme=vue&hide_border=true)
